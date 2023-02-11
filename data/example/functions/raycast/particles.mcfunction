@@ -1,0 +1,2 @@
+execute unless entity @e[type=player,tag=hexenwerk.spell.caster,distance=..2] if score @s hexenwerk.spell_id matches 2003 if predicate hexenwerk:percent/20 run particle angry_villager ^ ^ ^-0.1 0 0 0 0 5 force
+ 

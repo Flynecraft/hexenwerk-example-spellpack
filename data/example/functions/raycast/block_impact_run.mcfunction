@@ -1,0 +1,1 @@
+execute if score .current hexenwerk.spell_id matches 2003 run function example:example_ranged/block_impact

@@ -1,0 +1,1 @@
+execute if score @s hexenwerk.spell_id matches 203 at @s run function example:no_raycast/spells_effect/example_unranged
